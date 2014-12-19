@@ -59,7 +59,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Harvard - Education</h1>
-              <p>Harvard University provides various educational opportunities.  Click the below to be redirected to Harvard's Extension School.</p>
+              <p>Harvard University provides various educational opportunities.  Click learn more to be redirected to Harvard's Extension School.</p>
               <p><a class="btn btn-lg btn-primary" href="http://www.extension.harvard.edu" role="button">Learn more</a></p>
             </div>
           </div>
