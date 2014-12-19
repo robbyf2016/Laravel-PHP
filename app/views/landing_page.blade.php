@@ -27,6 +27,7 @@
                     <li><a href="#">Secure Coding Information</a></li>
                     <li><a href="#">Secure Auditing</a></li>
                     <li><a href="#">Vulnerability Assessments</a></li>
+                    <li><a href="#">Hacking</a></li>
                     <li class="divider"></li>
                     <li class="dropdown-header">Harvard Projects</li>
                     <li><a href="#">PHP and Laravel</a></li>
@@ -104,22 +105,22 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <img class="img-circle" src="images/github.gif" alt="Github image" style="width: 140px; height: 140px;">
+          <h2>Online Repository</h2>
+          <p>Guthub is a perfect solution for code versioning.  It provides a robust set of features along with having your code maintained in the cloud.  It provides for both public and private repositories.  Check it out!</p>
+          <p><a class="btn btn-default" href="http://www.github.com" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <img class="img-circle" src="images/Bootstrap.jpg" alt="Bootstrap image" style="width: 140px; height: 140px;">
+          <h2>Bootstrap Framework</h2>
+          <p>Tired of creating plain and boring sites from scratch?  Have no fear, bootstrap is here!  Bootstrap provides a front-end site framework for building nice websites.  Select the view details to find out more.</p>
+          <p><a class="btn btn-default" href="http://getbootstrap.com" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <img class="img-circle" src="images/DO.png" alt="Digital Ocean image" style="width: 140px; height: 140px;">
+          <h2>Digital Ocean</h2>
+          <p>Digital Ocean is a simple and effective solution for cloud webserver instantiation.  Digital Ocean provides a step-by-step setup for creating your cloud webserver for your web based application(s).</p>
+          <p><a class="btn btn-default" href="http://digitalocean.com" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -170,7 +171,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p>&copy; H@ck the W0rld &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
 
     </div><!-- /.container -->
