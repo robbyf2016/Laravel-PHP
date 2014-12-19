@@ -78,7 +78,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>NSU - Education</h1>
-              <p>NSU offers Master and PhD programs in computer science with NSA designation.</p>
+              <p>NSU offers Master and PhD programs in computer science with NSA designation.  NSU also provides on and off campus delivery.</p>
               <p><a class="btn btn-lg btn-primary" href="http://scis.nova.edu/" role="button">Learn more</a></p>
             </div>
           </div>
