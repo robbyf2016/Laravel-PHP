@@ -55,9 +55,10 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-         <img src="images/Harvard_logo.png" style="width: 140px; height: 136px;" alt="First slide">
+         
           <div class="container">
             <div class="carousel-caption">
+              <img src="images/Harvard_logo.png" style="width: 140px; height: 136px;" alt="First slide">
               <h1>Harvard - Education</h1>
               <p>Harvard University provides various educational opportunities.  Click learn more to be redirected to Harvard's Extension School.</p>
               <p><a class="btn btn-lg btn-primary" href="http://www.extension.harvard.edu" role="button">Learn more</a></p>
@@ -65,9 +66,10 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/MIT_Seal.png" style="width: 140px; height: 136px;" alt="Second slide">
+          
           <div class="container">
             <div class="carousel-caption">
+              <img src="images/MIT_Seal.png" style="width: 140px; height: 136px;" alt="Second slide">
               <h1>MIT - Education</h1>
               <p>MIT offers numerous educational opportunities in the areas of computer science and information security via traditional and non-traditional methods.</p>
               <p><a class="btn btn-lg btn-primary" href="http://web.mit.edu/professional/" role="button">Learn more</a></p>
@@ -75,9 +77,10 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/nova_seal.png" style="width: 140px; height: 136px;" alt="Third slide">
+          
           <div class="container">
             <div class="carousel-caption">
+              <img src="images/nova_seal.png" style="width: 140px; height: 136px;" alt="Third slide">
               <h1>NSU - Education</h1>
               <p>NSU offers Master and PhD programs in computer science with NSA designation.  NSU also provides on and off campus delivery.</p>
               <p><a class="btn btn-lg btn-primary" href="http://scis.nova.edu/" role="button">Learn more</a></p>
