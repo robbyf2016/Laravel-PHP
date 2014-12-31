@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Robby Fussell - Harvard Coding Page</title>
+    <title>Robby Fussell - H@v@rd - H@ck the W0rld</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
