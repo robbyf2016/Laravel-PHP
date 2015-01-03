@@ -11,37 +11,57 @@ body {
 
 .encrypt_Secure_Coding:before {
     content: 'wgYUB132*(&';
+    background: red;
+    color: white;
 }
 .encrypt_Secure_Coding:hover:before {
     content: 'Secure Coding Info';
+    background: transparent;
+    color: black;
 }
 
 .encrypt_audit:before {
     content: 'jhs*&KJL!';
+    background: red;
+    color: white;
 }
 .encrypt_audit:hover:before {
     content: 'Secure Auditing';
+    background: transparent;
+    color: black;
 }
 
 .encrypt_va:before {
     content: 'poip1221&*&';
+    background: red;
+    color: white;
 }
 .encrypt_va:hover:before {
     content: 'Vulnerability Assessments';
+    background: transparent;
+    color: black;
 }
 
 .encrypt_hack:before {
     content: 'mnmHHJKH78#$';
+    background: red;
+    color: white;
 }
 .encrypt_hack:hover:before {
     content: 'Hacking';
+    background: transparent;
+    color: black;
 }
 
 .encrypt_pt:before {
     content: '#$*(-YUBnbnb';
+    background: red;
+    color: white;
 }
 .encrypt_pt:hover:before {
     content: 'Penetration Testing';
+    background: transparent;
+    color: black;
 }
 
 
