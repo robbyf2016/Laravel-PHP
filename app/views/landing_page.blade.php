@@ -24,10 +24,12 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Security Info <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Secure Coding Information</a></li>
-                    <li><a href="#">Secure Auditing</a></li>
-                    <li><a href="#">Vulnerability Assessments</a></li>
-                    <li><a href="#">Hacking</a></li>
+                    <li class="dropdown-header">InfoSec</li>
+                    <li><a class="encrypt_Secure_Coding" href="#"></a></li>
+                    <li><a class="encrypt_audit" href="#"></a></li>
+                    <li><a class="encrypt_va" href="#"></a></li>
+                    <li><a class="encrypt_hack" href="#"></a></li>
+                    <li><a class="encrypt_pt" href="#"></a></li>
                     <li class="divider"></li>
                     <li class="dropdown-header">Harvard Projects</li>
                     <li><a href="#">PHP and Laravel</a></li>

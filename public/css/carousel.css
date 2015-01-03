@@ -7,6 +7,43 @@ body {
   color: #5a5a5a;
 }
 
+/*CUSTOM*/
+
+.encrypt_Secure_Coding:before {
+    content: 'wgYUB132*(&';
+}
+.encrypt_Secure_Coding:hover:before {
+    content: 'Secure Coding Info';
+}
+
+.encrypt_audit:before {
+    content: 'jhs*&KJL!';
+}
+.encrypt_audit:hover:before {
+    content: 'Secure Auditing';
+}
+
+.encrypt_va:before {
+    content: 'poip1221&*&';
+}
+.encrypt_va:hover:before {
+    content: 'Vulnerability Assessments';
+}
+
+.encrypt_hack:before {
+    content: 'mnmHHJKH78#$';
+}
+.encrypt_hack:hover:before {
+    content: 'Hacking';
+}
+
+.encrypt_pt:before {
+    content: '#$*(-YUBnbnb';
+}
+.encrypt_pt:hover:before {
+    content: 'Penetration Testing';
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
