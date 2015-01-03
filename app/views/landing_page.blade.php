@@ -136,11 +136,11 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Want to hack? <span class="text-muted">Find the holes.</span></h2>
+          <p class="lead">A good place to start when hacking is to begin with the common sites that warehouse exploits. Good information gathering is a key component in the discovery process.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="images/osvdb_chart.png" alt="OSVDB Chart image"><p class="caption">Source: www.osvdb.org</p>
         </div>
       </div>
 
@@ -148,15 +148,15 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="images/network_diagram.gif" alt="Network Schematic image"><p class="caption">Source: www.mbidata.com</p>
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Understand the technology. <span class="text-muted">Educate yourself.</span></h2>
+          <p class="lead">Being a true hacker involves time and effort.  Invest time and energy in understanding the protocols, technologies, and various infrastructure deployments.  </p>
         </div>
       </div>
 
-      <hr class="featurette-divider">
+      <!--<hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -166,7 +166,7 @@
         <div class="col-md-5">
           <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
-      </div>
+      </div>-->
 
       <hr class="featurette-divider">
 

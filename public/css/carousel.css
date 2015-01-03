@@ -64,6 +64,10 @@ body {
     color: black;
 }
 
+.caption {
+    text-align: center;
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
