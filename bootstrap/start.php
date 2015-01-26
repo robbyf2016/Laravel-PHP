@@ -26,7 +26,8 @@ $app = new Illuminate\Foundation\Application;
 
 $env = $app->detectEnvironment(array(
 
-	'local' => array('robbyfussell-harvard'),
+	'local' => array('Robbys-Air.home'),
+	'production' => array('robbyfussell-harvard'),
 
 ));
 
